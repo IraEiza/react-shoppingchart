@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-shoppingchart/static/css/main.42143791.css",
+    "main.js": "/react-shoppingchart/static/js/main.4f4ad560.js",
+    "static/js/787.c117596b.chunk.js": "/react-shoppingchart/static/js/787.c117596b.chunk.js",
+    "static/media/item_image2.jpg": "/react-shoppingchart/static/media/item_image2.30a2ff56e3c6c23c583e.jpg",
+    "index.html": "/react-shoppingchart/index.html",
+    "main.42143791.css.map": "/react-shoppingchart/static/css/main.42143791.css.map",
+    "main.4f4ad560.js.map": "/react-shoppingchart/static/js/main.4f4ad560.js.map",
+    "787.c117596b.chunk.js.map": "/react-shoppingchart/static/js/787.c117596b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42143791.css",
+    "static/js/main.4f4ad560.js"
+  ]
+}
