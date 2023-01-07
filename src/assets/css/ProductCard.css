@@ -1,0 +1,14 @@
+.card img {
+  height: 200px;
+  object-fit: contain;
+}
+.card {
+  height:480px;
+  margin: 5px;
+}
+.card button {
+  margin: 10px;
+}
+.card label {
+  margin: 0 10px;
+}
